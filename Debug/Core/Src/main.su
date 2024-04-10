@@ -1,0 +1,13 @@
+../Core/Src/main.c:97:5:main	16	static
+../Core/Src/main.c:122:6:SystemClock_Config	96	static
+../Core/Src/main.c:155:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:166:13:JOY_STICK_Init	32	static
+../Core/Src/main.c:177:13:LED_PIN_Init	40	static
+../Core/Src/main.c:188:13:LEDS_PINS_Init	16	static
+../Core/Src/main.c:196:13:RGB_LEDS_PIN_Init	16	static
+../Core/Src/main.c:212:13:Turn_On_Pin	16	static
+../Core/Src/main.c:217:13:Turn_Off_Pin	16	static
+../Core/Src/main.c:222:16:JOY_INPUT_Checker	8	static
+../Core/Src/main.c:247:13:LED_JOY_Handler	8	static
+../Core/Src/main.c:276:13:WAIT_WITH_INPUT	16	static
+../Core/Src/main.c:287:6:Error_Handler	4	static
